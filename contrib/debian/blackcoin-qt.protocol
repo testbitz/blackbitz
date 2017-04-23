@@ -1,6 +1,6 @@
 [Protocol]
-exec=blackcoin-qt '%u'
-protocol=blackcoin
+exec=blackbitz-qt '%u'
+protocol=blackbitz
 input=none
 output=none
 helper=true

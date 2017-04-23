@@ -13,7 +13,7 @@
 #include <QUrl>
 #include <QScrollBar>
 
-#include <openssl/crypto.h>
+#include "openssl/crypto.h"
 
 // TODO: add a scrollback limit, as there is currently none
 // TODO: make it possible to filter out categories (esp debug messages when implemented)

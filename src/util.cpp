@@ -35,7 +35,7 @@ namespace boost {
 #include <boost/filesystem/fstream.hpp>
 #include <boost/foreach.hpp>
 #include <boost/thread.hpp>
-#include <openssl/crypto.h>
+#include "openssl/crypto.h"
 #include <openssl/rand.h>
 #include <stdarg.h>
 
